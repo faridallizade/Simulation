@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.CORE\bin\Debug\net6.0\Simulation.CORE.deps.json
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.CORE\bin\Debug\net6.0\Simulation.CORE.dll
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.CORE\bin\Debug\net6.0\Simulation.CORE.pdb
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.CORE\obj\Debug\net6.0\Simulation.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.CORE\obj\Debug\net6.0\Simulation.CORE.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.CORE\obj\Debug\net6.0\Simulation.CORE.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.CORE\obj\Debug\net6.0\Simulation.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.CORE\obj\Debug\net6.0\Simulation.CORE.dll
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.CORE\obj\Debug\net6.0\refint\Simulation.CORE.dll
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.CORE\obj\Debug\net6.0\Simulation.CORE.pdb
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.CORE\obj\Debug\net6.0\ref\Simulation.CORE.dll
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.CORE\obj\Debug\net6.0\Simulation.CORE.csproj.AssemblyReference.cache

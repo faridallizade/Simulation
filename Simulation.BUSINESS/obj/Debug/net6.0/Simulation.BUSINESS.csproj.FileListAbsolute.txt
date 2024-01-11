@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\bin\Debug\net6.0\Simulation.BUSINESS.deps.json
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\bin\Debug\net6.0\Simulation.BUSINESS.dll
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\bin\Debug\net6.0\Simulation.BUSINESS.pdb
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\bin\Debug\net6.0\Simulation.CORE.dll
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\bin\Debug\net6.0\Simulation.DAL.dll
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\bin\Debug\net6.0\Simulation.DAL.pdb
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\bin\Debug\net6.0\Simulation.CORE.pdb
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\obj\Debug\net6.0\Simulation.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\obj\Debug\net6.0\Simulation.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\obj\Debug\net6.0\Simulation.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\obj\Debug\net6.0\Simulation.BUSINESS.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\obj\Debug\net6.0\Simulation.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\obj\Debug\net6.0\Simulation.BUSINESS.csproj.CopyComplete
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\obj\Debug\net6.0\Simulation.BUSINESS.dll
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\obj\Debug\net6.0\refint\Simulation.BUSINESS.dll
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\obj\Debug\net6.0\Simulation.BUSINESS.pdb
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.BUSINESS\obj\Debug\net6.0\ref\Simulation.BUSINESS.dll

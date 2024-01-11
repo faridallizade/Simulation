@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\bin\Debug\net6.0\Simulation.DAL.deps.json
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\bin\Debug\net6.0\Simulation.DAL.runtimeconfig.json
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\bin\Debug\net6.0\Simulation.DAL.dll
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\bin\Debug\net6.0\Simulation.DAL.pdb
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\bin\Debug\net6.0\Simulation.CORE.dll
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\bin\Debug\net6.0\Simulation.CORE.pdb
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\obj\Debug\net6.0\Simulation.DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\obj\Debug\net6.0\Simulation.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\obj\Debug\net6.0\Simulation.DAL.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\obj\Debug\net6.0\Simulation.DAL.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\obj\Debug\net6.0\Simulation.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\obj\Debug\net6.0\Simulation.DAL.csproj.CopyComplete
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\obj\Debug\net6.0\Simulation.DAL.dll
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\obj\Debug\net6.0\refint\Simulation.DAL.dll
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\obj\Debug\net6.0\Simulation.DAL.pdb
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\obj\Debug\net6.0\Simulation.DAL.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#\Simulation\Simulation.DAL\obj\Debug\net6.0\ref\Simulation.DAL.dll
